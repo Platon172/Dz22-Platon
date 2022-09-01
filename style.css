@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.card-menu {
+  width: 500px;
+  padding: 25px 20px 50px 20px;
+  background-color: rgb(162, 162, 162);
+  border-radius: 20px;
+  margin: 40px;
+}
+.card-title {
+  color: white;
+  margin-bottom: 20px;
+}
+.credit-card {
+  height: 260px;
+  background-color: rgb(27, 27, 27);
+  border-radius: 20px;
+  position: relative;
+  left: 85px;
+}
+
+.card-button {
+  display: block;
+  text-decoration: none;
+  color: white;
+  background-color: rgb(27, 27, 27);
+  width: 80%;
+  text-align: center;
+  padding: 15px 0;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.credit-card-logo {
+  width: 100px;
+  position: absolute;
+  right: 20px;
+  bottom: 0;
+}
+.card-name {
+  color: white;
+  position: absolute;
+  margin-top: 50px;
+  left: 25px;
+}
+
+.card-buttons1 {
+  color: gray;
+  position: absolute;
+  margin-top: 120px;
+  font-size: 30px;
+  left: 40px;
+}
+.card-buttons2 {
+  color: gray;
+  position: absolute;
+  margin-top: 120px;
+  font-size: 30px;
+  left: 120px;
+}
+.card-buttons3 {
+  color: gray;
+  position: absolute;
+  margin-top: 120px;
+  font-size: 30px;
+  left: 200px;
+}
+.card-buttons4 {
+  color: gray;
+  position: absolute;
+  margin-top: 120px;
+  font-size: 30px;
+  left: 300px;
+}
+
+.card-data {
+  color: white;
+  position: absolute;
+  margin-top: 180px;
+  left: 40px;
+}
+
+.card-surname {
+  color: white;
+  position: absolute;
+  margin-top: 230px;
+  left: 25px;
+}
